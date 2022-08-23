@@ -4,13 +4,19 @@ description: Everything related to Aon Chronicles can be found here!
 
 # Aon Chronicles Wiki
 
-Aon Chronicles: Pre-Industrialized Nation Play in a Dimensional Paradigm!&#x20;
+<figure><img src=".gitbook/assets/div1_test.png" alt=""><figcaption></figcaption></figure>
 
-It is a Town, Medieval Geo-Politic-Esque server with a focus on custom 'Pre-Industrialized' Town Creation and RPG Exploration with a multi-dimensional spin.&#x20;
+**Aon Chronicles**: Pre-Industrialized Nation Play in a <mark style="color:purple;">Dimensional</mark> <mark style="color:red;">Paradigm</mark>!&#x20;
 
-It features RPG Race Selection (Much like the popular Origins Mod), a fully-fledged Town Creation System with Buildings and Resource Generating Structures, a unique stacked world design with **14** dimensions to explore with completely revamped vanilla, a progressive Story that spans worlds,  hundreds of custom items, item sets and plenty of unique bosses and world dungeon structures.
+It is a Town, Geo-Politic-Esque server with a focus on custom 'Pre-Industrialized' Town Creation and RPG Exploration with a multi-dimensional spin.&#x20;
 
-The easiest way to put it: Modded Minecraft but all while maintaining compatibility with Vanilla Bedrock and Java Minecraft!&#x20;
+It features <mark style="background-color:orange;">RPG Race Selection</mark> (Much like the popular Origins Mod), a fully-fledged <mark style="background-color:orange;">Town Creation System</mark> with Buildings and Resource Generating Structures, a unique stacked world design with <mark style="background-color:orange;">**14**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">dimensions</mark> to explore with completely revamped vanilla, and hundreds of custom items, item sets and plenty of unique bosses and world dungeon structures.&#x20;
 
+This Server is playable on both <mark style="color:green;">**1.19.2 Java Edition**</mark> and <mark style="color:green;">**1.19.20 Bedrock Edition**</mark> (It is optimized for Java, and there are some limitations with Bedrock).&#x20;
 
+The Server was designed to be easy to join and play. It is compatible with **ViveCraft** for VR, has an In-Game **Voice Chat Service** for those running the mod, in-game and external maps and guides/wiki and much more! This server departs significantly from the 'Vanilla' experience so if you have any questions let us know!
+
+<figure><img src=".gitbook/assets/ChronicleSpecies_1.png" alt=""><figcaption><p>Species of Chronicles</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/mapsmol.png" alt=""><figcaption><p>The World of Chronicles</p></figcaption></figure>
 

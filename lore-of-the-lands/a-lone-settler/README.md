@@ -29,5 +29,5 @@ This Wiki Group will go over the different species of the world - and the ones y
 * Realmkeepers
 * Villians
 
-
+<figure><img src="../../.gitbook/assets/ChronicleSpecies_1.png" alt=""><figcaption><p>Species to Select</p></figcaption></figure>
 

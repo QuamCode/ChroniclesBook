@@ -6,35 +6,6 @@
 
 * [Page 2](getting-started/page-2.md)
 
-## 💀 Bosses and Mobs
-
-* [Dimension Bosses](bosses-and-mobs/dimension-bosses/README.md)
-  * [Solatium Thrall](bosses-and-mobs/dimension-bosses/solatium-thrall.md)
-  * [The Disruptor](bosses-and-mobs/dimension-bosses/the-disruptor.md)
-  * [Bygone Viceroy](bosses-and-mobs/dimension-bosses/bygone-viceroy.md)
-  * [Hovering Inferno](bosses-and-mobs/dimension-bosses/hovering-inferno.md)
-* [Other Bosses](bosses-and-mobs/other-bosses/README.md)
-  * [Corrupted Enderman](bosses-and-mobs/other-bosses/corrupted-enderman.md)
-  * [Blaze King](bosses-and-mobs/other-bosses/blaze-king.md)
-  * [Ultra Wither](bosses-and-mobs/other-bosses/ultra-wither.md)
-  * [Sanctum Keeper](bosses-and-mobs/other-bosses/sanctum-keeper.md)
-  * [Giant](bosses-and-mobs/other-bosses/giant.md)
-  * [Phantasmal Swarm](bosses-and-mobs/other-bosses/phantasmal-swarm.md)
-  * [Illusioner](bosses-and-mobs/other-bosses/illusioner.md)
-  * [Shulker Stone](bosses-and-mobs/other-bosses/shulker-stone.md)
-  * [Dark Lord and Necromancer](bosses-and-mobs/other-bosses/dark-lord-and-necromancer.md)
-  * [Piglin Champion, Withered Emperor and Magma Lord](bosses-and-mobs/other-bosses/piglin-champion-withered-emperor-and-magma-lord.md)
-  * [Sage Guardian, Drowned God and King Slime](bosses-and-mobs/other-bosses/sage-guardian-drowned-god-and-king-slime.md)
-* [Page 1](bosses-and-mobs/page-1.md)
-
-## ⚒ Custom Items
-
-* [🏘 Town Items](custom-items/town-items.md)
-* [👿 Boss Items](custom-items/boss-items.md)
-* [🟢 Slimefun Related](custom-items/slimefun-related.md)
-* [🌏 Dimension Items](custom-items/dimension-items.md)
-* [⚔ Combat Items](custom-items/combat-items.md)
-
 ## 📖 Lore of the Lands
 
 * [🏰 A Lone Settler](lore-of-the-lands/a-lone-settler/README.md)
@@ -83,3 +54,32 @@
   * [Blackwater Tale](lore-of-the-lands/lost-texts-of-the-cornucopia/blackwater-tale.md)
   * [Brookbire Quarter Prisoner Logs](lore-of-the-lands/lost-texts-of-the-cornucopia/brookbire-quarter-prisoner-logs.md)
   * [Lost Journal on Redstone](lore-of-the-lands/lost-texts-of-the-cornucopia/lost-journal-on-redstone.md)
+
+## 💀 Bosses and Mobs
+
+* [Dimension Bosses](bosses-and-mobs/dimension-bosses/README.md)
+  * [Solatium Thrall](bosses-and-mobs/dimension-bosses/solatium-thrall.md)
+  * [The Disruptor](bosses-and-mobs/dimension-bosses/the-disruptor.md)
+  * [Bygone Viceroy](bosses-and-mobs/dimension-bosses/bygone-viceroy.md)
+  * [Hovering Inferno](bosses-and-mobs/dimension-bosses/hovering-inferno.md)
+* [Other Bosses](bosses-and-mobs/other-bosses/README.md)
+  * [Corrupted Enderman](bosses-and-mobs/other-bosses/corrupted-enderman.md)
+  * [Blaze King](bosses-and-mobs/other-bosses/blaze-king.md)
+  * [Ultra Wither](bosses-and-mobs/other-bosses/ultra-wither.md)
+  * [Sanctum Keeper](bosses-and-mobs/other-bosses/sanctum-keeper.md)
+  * [Giant](bosses-and-mobs/other-bosses/giant.md)
+  * [Phantasmal Swarm](bosses-and-mobs/other-bosses/phantasmal-swarm.md)
+  * [Illusioner](bosses-and-mobs/other-bosses/illusioner.md)
+  * [Shulker Stone](bosses-and-mobs/other-bosses/shulker-stone.md)
+  * [Dark Lord and Necromancer](bosses-and-mobs/other-bosses/dark-lord-and-necromancer.md)
+  * [Piglin Champion, Withered Emperor and Magma Lord](bosses-and-mobs/other-bosses/piglin-champion-withered-emperor-and-magma-lord.md)
+  * [Sage Guardian, Drowned God and King Slime](bosses-and-mobs/other-bosses/sage-guardian-drowned-god-and-king-slime.md)
+* [Page 1](bosses-and-mobs/page-1.md)
+
+## ⚒ Custom Items
+
+* [🏘 Town Items](custom-items/town-items.md)
+* [👿 Boss Items](custom-items/boss-items.md)
+* [🟢 Slimefun Related](custom-items/slimefun-related.md)
+* [🌏 Dimension Items](custom-items/dimension-items.md)
+* [⚔ Combat Items](custom-items/combat-items.md)

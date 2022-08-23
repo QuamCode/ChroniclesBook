@@ -16,7 +16,7 @@ description: Technologically Advanced Autonomous Mechanical Robot People
 
 The Automechs are a race of extremely intelligent, knowledge-seeking, reality-bending, interdimensional robots created in the Omnidrome. As tools of The Ascended Council, there mission is to spread to all corners of the known Cornucopia, and seek out as much knowledge as possible. Many Automechs find themselves in a hive-mind state under the authority of the council, but some lucky few born with a strong enough will to be come their own, free from the influence of the council. Automechs, as the most technically advanced race in the entirety of the Cornucopia, encompass reality-bending technology that puts them far above many of the other races power-wise. In some cultures, are even feared due to their technology.
 
-![Automech](../../.gitbook/assets/Automech.png)
+![Automech](<../../.gitbook/assets/Automech (1).png>)
 
 #### Physiology (mechanics)
 
