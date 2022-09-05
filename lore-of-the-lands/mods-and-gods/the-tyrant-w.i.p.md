@@ -9,3 +9,5 @@ The Tyrant rules the Nether and actively seeks conflict and battle. Was original
 His target often changes - but one thing is certain, the gears of war within the Nether have been turning. Preparing for inevitable conflict once again. Perhaps this time, it will be different.
 
 \[This is otherwise the current conflict the player now finds themselves in]
+
+<figure><img src="../../.gitbook/assets/2022-09-05_21.18.10.png" alt=""><figcaption><p>What Mortal minds perceive to be The Tyrant in its Mod form.</p></figcaption></figure>
