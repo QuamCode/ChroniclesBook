@@ -6,7 +6,7 @@ It contains huge mountains of dirt and nether quartz, with flowers on the tops o
 
 To get to it, you must fly up or build up to the block limit in Faewilds.
 
-Pax is also home to The Arc, a giant gateway located in the center of the realm - that allows you to enter any dimension via lever combinations. It is the only way to enter Dormis.
+Pax is the origin of The Arc Gateway System that spans the cornucopia - that allows you to enter any dimension via dial up sequences. It is the only way to enter Dormis.
 
 ![Pax - Realm of Peace](../../.gitbook/assets/pax2.png)
 
@@ -14,4 +14,4 @@ Pax is also home to The Arc, a giant gateway located in the center of the realm 
 
 Pax is a realm constructed to facilitate peace and tranquility. By nature it remains untouchable by the machinations of The Tyrant and his followers.
 
-Currently, Pax is the home of the [Realmkeepers](https://thebrackenpack.fandom.com/wiki/Realmkeepers), an expansionistic race that strives to improve the living conditions of other societies by eradicating disease and striving to maintain order and peace between the dimensions.
+Currently, Pax is the home of the Realmkeepers, an expansionistic race that strives to improve the living conditions of other societies by eradicating disease and striving to maintain order and peace between the dimensions.
