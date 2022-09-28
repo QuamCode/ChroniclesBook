@@ -8,7 +8,7 @@ description: The Magic is strong with this one.
 
 **Otherworldly Agility -** Faefolk are one of the most naturally agile races in all of the Cornucopia. Faefolk constantly have the jump boost effect, and speed when sprinting.
 
-**Faemarks -** Faemarks are the magically imbued tattoos that cover their bodies at birth. This gives them a passive XP gain similar to the [Faewilds](https://thebrackenpack.fandom.com/wiki/The\_Faewilds), but in any dimension. However, as a downside, these tattoos make them weaker to wielding physical weaponry, giving them permanent weakness.
+**Faemarks -** Faemarks are the magically imbued tattoos that cover their bodies at birth. This gives them a passive XP gain similar to the Faewilds, but in any dimension. However, as a downside, these tattoos make them weaker to wielding physical weaponry, giving them permanent weakness.
 
 ### Lore
 

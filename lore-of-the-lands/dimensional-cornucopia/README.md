@@ -13,7 +13,7 @@ The Cornucopia is the name for the all-encompassing multidimensions that make up
 1. [Dormis](dormis.md)
 2. [Pax](pax.md)
 3. [The Faewild](the-faewilds.md)
-4. [Amithis (Overworld)](amithis-overworld.md)
+4. [Amithis (Overworld)](paralon-overworld.md)
 5. [The Underdark](the-underdark.md)
 6. [The Nether](the-nether-w.i.p.md)
 7. [The Sanctum](the-sanctum.md)
@@ -25,6 +25,6 @@ The Cornucopia is the name for the all-encompassing multidimensions that make up
 13. [Void](void.md)
 14. [The End](the-end.md)
 
-![The Dimensional Cornucopia](../../.gitbook/assets/mapsmol.png)
-
 ![Different scales and travel methods between the 14 Dimensions](../../.gitbook/assets/DimensionMAPFINAL2.png)
+
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>

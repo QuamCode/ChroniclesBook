@@ -11,7 +11,7 @@ There are several Lost Texts, Poems and Journal Entries which act as worldbuildi
 * [Plight of the Endermen ](plight-of-the-endermen.md)
 * [The Eerie Horror of Sanctum and Liminal Spaces](the-eerie-horror-of-sanctum-and-liminal-spaces.md)
 * [OMEGA\_RESEARCH Security Log #3 #24 ](omega-research-security-log-3-24.md)
-* [The Machinations of Magics ](the-machinations-of-magics.md)
+* [The Machinations of Magics ](the-machinations-of-mods.md)
 * [Post-fall Journal ](post-fall-journal.md)
 * [Old Durum Good Listings](old-durum-good-listings.md)&#x20;
 * [Writings of a Nereid Refugee ](writings-of-a-nereid-refugee.md)

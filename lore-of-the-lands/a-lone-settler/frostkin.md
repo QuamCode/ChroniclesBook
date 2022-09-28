@@ -6,7 +6,7 @@ description: People of Glacium
 
 ### Current Abilities
 
-**Icy Flesh -** The durable icy skin of Frostkin's allow them to take a punch, and slows have zero effect on their skeletal structure, made of permafrost. This translates to permanent resistance x1, and immunity to slows. (They are also immune to the anti-jump mechanic portion of the [Frostlock magic book](https://thebrackenpack.fandom.com/wiki/Magic\_Books).)
+**Icy Flesh -** The durable icy skin of Frostkin's allow them to take a punch, and slows have zero effect on their skeletal structure, made of permafrost. This translates to permanent resistance x1, and immunity to slows. (They are also immune to the anti-jump mechanic portion of the Frostlock magic book.)
 
 **Lower Melting Point -** Despite the durability of Frostkin, they have an innate susceptibility to fire damage due to their frosted skin, and have a lower melting point than regular human epidermis's. They are given instant damage when walking in fire or lava blocks.
 

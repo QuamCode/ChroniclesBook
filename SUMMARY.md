@@ -5,6 +5,7 @@
 ## 🛠 Getting Started
 
 * [From Nomad to Settler](getting-started/from-nomad-to-settler.md)
+* [From Settlers to Kingdoms](getting-started/from-settlers-to-kingdoms.md)
 
 ## 📖 Lore of the Lands
 
@@ -35,7 +36,7 @@
   * [Dormis](lore-of-the-lands/dimensional-cornucopia/dormis.md)
   * [Pax](lore-of-the-lands/dimensional-cornucopia/pax.md)
   * [The Faewilds](lore-of-the-lands/dimensional-cornucopia/the-faewilds.md)
-  * [Amithis (Overworld)](lore-of-the-lands/dimensional-cornucopia/amithis-overworld.md)
+  * [Paralon (Overworld)](lore-of-the-lands/dimensional-cornucopia/paralon-overworld.md)
   * [The Underdark](lore-of-the-lands/dimensional-cornucopia/the-underdark.md)
   * [The Nether \[W.I.P\]](lore-of-the-lands/dimensional-cornucopia/the-nether-w.i.p.md)
   * [The Sanctum](lore-of-the-lands/dimensional-cornucopia/the-sanctum.md)
@@ -47,17 +48,13 @@
   * [The Eerie Horror of Sanctum and Liminal Spaces](lore-of-the-lands/lost-texts-of-the-cornucopia/the-eerie-horror-of-sanctum-and-liminal-spaces.md)
   * [Plight of the Endermen](lore-of-the-lands/lost-texts-of-the-cornucopia/plight-of-the-endermen.md)
   * [OMEGA RESEARCH Security Log 3 24](lore-of-the-lands/lost-texts-of-the-cornucopia/omega-research-security-log-3-24.md)
-  * [The Machinations of Magics](lore-of-the-lands/lost-texts-of-the-cornucopia/the-machinations-of-magics.md)
+  * [The Machinations of Mods](lore-of-the-lands/lost-texts-of-the-cornucopia/the-machinations-of-mods.md)
   * [Post-fall Journal](lore-of-the-lands/lost-texts-of-the-cornucopia/post-fall-journal.md)
   * [Old Durum Good Listings](lore-of-the-lands/lost-texts-of-the-cornucopia/old-durum-good-listings.md)
   * [Writings of a Nereid Refugee](lore-of-the-lands/lost-texts-of-the-cornucopia/writings-of-a-nereid-refugee.md)
   * [Blackwater Tale](lore-of-the-lands/lost-texts-of-the-cornucopia/blackwater-tale.md)
   * [Brookbire Quarter Prisoner Logs](lore-of-the-lands/lost-texts-of-the-cornucopia/brookbire-quarter-prisoner-logs.md)
   * [Lost Journal on Redstone](lore-of-the-lands/lost-texts-of-the-cornucopia/lost-journal-on-redstone.md)
-
-***
-
-* [Page 1](page-1.md)
 
 ## 💀 Events, Bosses and Mobs
 
@@ -86,7 +83,7 @@
 
 ## ⚒ Custom Items
 
-* [🏘 Town Items](custom-items/town-items.md)
+* [🏘 Town/Nation Items](custom-items/town-nation-items.md)
 * [👿 Boss Items](custom-items/boss-items.md)
 * [🟢 Slimefun Related](custom-items/slimefun-related.md)
 * [🌏 Dimension Items](custom-items/dimension-items.md)

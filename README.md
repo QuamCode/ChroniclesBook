@@ -18,5 +18,5 @@ The Server was designed to be easy to join and play. It is compatible with **Viv
 
 <figure><img src=".gitbook/assets/ChronicleSpecies_1.png" alt=""><figcaption><p>Species of Chronicles</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/mapsmol.png" alt=""><figcaption><p>The World of Chronicles</p></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption><p>The Cornucopia</p></figcaption></figure>
 

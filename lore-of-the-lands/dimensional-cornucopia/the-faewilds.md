@@ -4,7 +4,7 @@ The Faewilds is a series of ever-changing floating islands and forests. Almost e
 
 To enter Faewilds you must build or fly all the way up to the block limit in the Overworld. To leave, drop down to the very bottom to return to the overworld. If shift is held in the Faewilds, the player receives slow-falling.
 
-The Faewilds are home to the [Faefolk](https://thebrackenpack.fandom.com/wiki/Faefolk), a magical, athletic, elvish race with an affinity for enchantment.
+The Faewilds are home to the Faefolk, a magical, athletic, elvish race with an affinity for enchantment.
 
 ![The Faewilds - A land of mystics](../../.gitbook/assets/fae.png)
 
