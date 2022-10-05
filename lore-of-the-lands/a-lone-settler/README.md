@@ -25,9 +25,9 @@ This Wiki Group will go over the different species of the world - and the ones y
 * [Hunters](hunter/)
 * [Nereids](nereids.md)
 * [Netherkin](netherkin.md)
-* Outlanders
-* Realmkeepers
-* Villians
+* [Outlanders](outlanders.md)
+* [Realmkeepers](realmkeepers.md)
+* [Villians](villians.md)
 
 <figure><img src="../../.gitbook/assets/ChronicleSpecies_1.png" alt=""><figcaption><p>Species to Select</p></figcaption></figure>
 
