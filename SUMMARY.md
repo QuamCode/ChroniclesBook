@@ -81,14 +81,15 @@
   * [Piglin Champion, Withered Emperor and Magma Lord](events-bosses-and-mobs/other-bosses/piglin-champion-withered-emperor-and-magma-lord.md)
   * [Sage Guardian, Drowned God and King Slime](events-bosses-and-mobs/other-bosses/sage-guardian-drowned-god-and-king-slime.md)
 
-## ⚒ Custom Items
+## ⚒ Custom
 
-* [🏘 Town/Nation Items](custom-items/town-nation-items.md)
-* [👿 Boss Items](custom-items/boss-items.md)
-* [🟢 Slimefun Related](custom-items/slimefun-related.md)
-* [🌏 Dimension Items](custom-items/dimension-items.md)
-* [🎨 Cosmetic Items](custom-items/cosmetic-items/README.md)
-  * [Armour Cosmetic](custom-items/cosmetic-items/armour-cosmetic.md)
-  * [Item Cosmetic](custom-items/cosmetic-items/item-cosmetic.md)
-  * [Page 1](custom-items/cosmetic-items/page-1.md)
-* [⚔ Combat Items](custom-items/combat-items.md)
+* [🏘 Town/Nation Items](custom/town-nation-items/README.md)
+  * [🧑 Villagers](custom/town-nation-items/villagers.md)
+* [👿 Boss Items](custom/boss-items.md)
+* [🟢 Slimefun Related](custom/slimefun-related.md)
+* [🌏 Dimension Items](custom/dimension-items.md)
+* [🎨 Cosmetic Items](custom/cosmetic-items/README.md)
+  * [Armour Cosmetic](custom/cosmetic-items/armour-cosmetic.md)
+  * [Item Cosmetic](custom/cosmetic-items/item-cosmetic.md)
+  * [Page 1](custom/cosmetic-items/page-1.md)
+* [⚔ Combat Items](custom/combat-items.md)
