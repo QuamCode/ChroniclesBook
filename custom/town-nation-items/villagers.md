@@ -6,9 +6,11 @@ description: Adapted from https://github.com/Bazoqa/getajob
 
 ### Villager NPC's
 
-You can purchase - through the use of materials and Building Permits - special NPC's from the Camp. These can range from Normal 'Vanilla' Villagers to custom Villagers with unique trades.
+You can purchase - through the use of materials and Building Permits - special NPCs from The Camp. These can range from Normal 'Vanilla' Villagers to custom Villagers with unique trades.
 
 When it comes to 'Vanilla' Villagers the role they play has been significantly enhanced due to their rarity. Each Profession has a functional role within your Nation.
+
+<figure><img src="../../.gitbook/assets/2022-12-20_19.40.02.png" alt=""><figcaption><p>Harold's Recruitment at The Camp offers the ability to 'hire' Villagers</p></figcaption></figure>
 
 ### Professions
 
