@@ -15,7 +15,7 @@ The Cornucopia is the name for the all-encompassing multidimensions that make up
 3. [The Faewild](the-faewilds.md)
 4. [Amithis (Overworld)](paralon-overworld.md)
 5. [The Underdark](the-underdark.md)
-6. [The Nether](the-nether-w.i.p.md)
+6. [The Nether](the-nether.md)
 7. [The Sanctum](the-sanctum.md)
 8. [Omnidrome](omnidrome.md)
 9. [Glacium](glacium-panacea-the-brine-varskspace.md)

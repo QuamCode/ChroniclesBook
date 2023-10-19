@@ -21,5 +21,5 @@ There were 11 Mods in the age of memoryless time - although few remain in the cu
 * [The Entertainer (Split)](the-entertainer.md)
 * The Forger
 * [The Traveler (Missing)](the-traveler.md)
-* [The Tyrant (Mortal)](the-tyrant-w.i.p.md)
+* [The Tyrant (Mortal)](the-tyrant.md)
 * [The Inspector (Ruination)](the-inspector-r-u-i-n-a-t-i-o-n.md)

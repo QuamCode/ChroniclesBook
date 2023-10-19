@@ -12,11 +12,11 @@ It is a Town, Geo-Politic-Esque server with a focus on custom 'Pre-Industrialize
 
 It features <mark style="background-color:orange;">RPG Race Selection</mark> (Much like the popular Origins Mod), a fully-fledged <mark style="background-color:orange;">Town Creation System</mark> with Buildings and Resource Generating Structures, a unique stacked world design with <mark style="background-color:orange;">**14**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">dimensions</mark> to explore with completely revamped vanilla, and hundreds of custom items, item sets and plenty of unique bosses and world dungeon structures.&#x20;
 
-This Server is playable on both <mark style="color:green;">**1.19.2 Java Edition**</mark> and <mark style="color:green;">**1.19.20 Bedrock Edition**</mark> (It is optimized for Java, and there are some limitations with Bedrock).&#x20;
+This Server is playable on both <mark style="color:green;">**1.20.1 Java Edition**</mark> and <mark style="color:green;">**1.20 Bedrock Edition**</mark> (It is optimized for Java, and there are some limitations with Bedrock).&#x20;
 
-The Server was designed to be easy to join and play. It is compatible with **ViveCraft** for VR, has an In-Game **Voice Chat Service** for those running the mod, in-game and external maps and guides/wiki and much more! This server departs significantly from the 'Vanilla' experience so if you have any questions let us know!
+The Server was designed to be easy to join and play. This server departs significantly from the 'Vanilla' experience so if you have any questions let us know!
 
 <figure><img src=".gitbook/assets/ChronicleSpecies_1.png" alt=""><figcaption><p>Species of Chronicles</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption><p>The Cornucopia</p></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption><p>The Cornucopia [From Chronicles v2]</p></figcaption></figure>
 

@@ -1,3 +1,0 @@
-# Shulker Stone
-
-The core of the End Cities auto-sentry system S.H.U.L.K.E.R, sits in a deep sleep at the top of an inverted pyramid, reawakening to the sound of its fallen Kingdom. To bring back the Shulkerstone from its sleep, you'll need the endstone key from one of its neighbouring pyramids, then with it in your main hand, right-click the tip of the Shulker Stone's pedestal. Shulkerstone will shoot lasers, shulker bullets, and even its own rocks to get rid of you. Upon defeation, it'll drop its hidden shulker shell helmet, which makes End mobs passive and gives you a deep vision of your surroundings.

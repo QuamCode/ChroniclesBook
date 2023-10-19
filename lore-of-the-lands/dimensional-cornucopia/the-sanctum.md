@@ -10,8 +10,6 @@ Sanctum is also an anti-grief dimension, with TNT disappearing, lava evaporating
 
 Sanctum is one of the 4 dimensions that contains its own unique boss.
 
-Not to be confused with the Sanctum Boss Structure found in Paralon.
-
 To access Sanctum, you must dig all the way down to the bottom of the nether near bedrock level.
 
 ![The Sanctum](../../.gitbook/assets/sanctum.png)
