@@ -1,0 +1,7 @@
+# Paralon (Overworld)
+
+The middle-ground of existence. The natural ebb of the Dimensional Cornucopia centers on what its inhabitants call Paralon. Paralon receives large quantities of Dimensional Travelers, passing through and looking for a place to call home. Not governed by a Mod, but by each and every inhabitant that reside within. This Dimension is, in the current age, the most populated, with Humans as the most common folk, but all kinds end up on the shores of Paralon, seeking refuge ready to start anew.
+
+Early on in its history, the Paralon Overworld was created to exist as a nexus between worlds, a hub in which multiple species could share ideas, knowledge, and culture, having no official Mod or people assigned to occupy its domain. However, this lack of liability and self-agency made Paralon a prime target for Nether occupation during the Age of Fire a millennia ago. It was during one of the most severe eras of Nether dominion that Mankind made its first appearance among the shared villages of Faefolk and Dwellers. Although most Netherkin would quickly dismiss it as being a blatant form of historical fiction, there is a popular belief among Humans that it was their unexpected and exceptional arrival that finally drove out the Netherkin, alongside The Tyrant in his corporeal form from the Overworld.
+
+<figure><img src="../../../.gitbook/assets/sERVERMAP (1).png" alt=""><figcaption><p>Paralon</p></figcaption></figure>
