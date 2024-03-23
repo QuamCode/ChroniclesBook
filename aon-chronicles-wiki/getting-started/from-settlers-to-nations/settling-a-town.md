@@ -4,6 +4,10 @@
 
 <figure><img src="../../../.gitbook/assets/Screenshot_2024-03-23_204059 (1).png" alt=""><figcaption></figcaption></figure>
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
