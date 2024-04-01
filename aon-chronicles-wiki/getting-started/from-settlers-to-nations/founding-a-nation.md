@@ -1,2 +1,0 @@
-# 🏛️ Founding a Nation
-

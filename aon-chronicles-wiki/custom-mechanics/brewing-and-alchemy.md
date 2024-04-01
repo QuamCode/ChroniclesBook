@@ -2,13 +2,7 @@
 
 Brewing mostly works the same as in vanilla, except a lot of recipes are temporarily locked off to the player and your brewed potions will be a lot weaker at the start. Potions still use an Awkward Potion as base, with the exception of Weakness Potions where this is optional.
 
-Alchemy is your proficiency in potion brewing. The higher your skill in alchemy, the more powerful your potions are able to get. Using alchemy, you can brew potions much stronger than what you can attain in vanilla, as well as completely new potion effects.
-
-**How to gain EXP**\
-You get experience through potion brewing. You gain experience for every potion you brew, based on how rare the ingredient is. For example, using a ghast tear rewards much more exp than rotten flesh.
-
-**Special Notes**\
-If you're committed to leveling alchemy, you're bound to brew a lot of potions you don't need. You can quickly empty bottles if you click with them on a cauldron.\
+Alchemy is your proficiency in potion brewing. The higher your skill in alchemy, the more powerful your potions are able to get. Using alchemy, you can brew potions much stronger than what you can attain in vanilla, as well as completely new potion effects.\
 
 
 Potions get a grading when it's brewed, which is based on the quality.\
@@ -20,75 +14,6 @@ Quality is determined by adding your general skill to your proficiency with eith
 200-249 = **Clear**\
 250-299 = _**Refined**_\
 300+ = _**Pure**_
-
-<details>
-
-<summary>Skill Perks</summary>
-
-**Alchemy I-II-III-IV-V**\
-Increases alchemy potency by 20-40-60-80-100\
-Requires level 0-20-40-60-80
-
-Each rank unlocks various new potion recipes, rank V comes with an additional 30% bonus to brewing speed.
-
-***
-
-**Beginner Medicationcraft**\
-Beneficial potions are 20 points stronger. Unlocks potions of regeneration and instant health\
-Requires level 30
-
-***
-
-**Efficient Alchemist**\
-Brewing is 30% faster. Unlocks potions of Saturation, Strength, Fortify Armor, and Fortify Healing\
-Requires level 50
-
-***
-
-**Great Power**\
-Beneficial potions are 30 points stronger. Unlocks all fortify-type potions\
-Requires level 70
-
-***
-
-**Beginner Poisoncraft**\
-Poisons are 20 points stronger. Unlocks potions of Mining Fatigue and Strong Arm\
-Requires level 30
-
-***
-
-**Witchcraft**\
-You throw potions 50% further. Unlocks potions of Withering and Blindness\
-Requires level 50
-
-***
-
-**Double toil and trouble**\
-Poisons are 30 points stronger. You gain a 33% chance to not consume a brewing ingredient, a 20% chance to not consume thrown/drunk potions. Unlocks potion of Fragility and Curse.\
-Requires level 70
-
-***
-
-**The Secrets of Transmutation**\
-Unlocks the ability to brew Alchemic Precursor, a special type of potion capable of transmuting materials to other materials.\
-Requires level 90
-
-***
-
-**Magnum Opus**\
-Your alchemic precursor gains the ability to transmute copper to iron, iron to gold, and emerald to diamond. Also unlocks Enchanted Golden Apple recipe and Potion of Ambrosia\
-Requires level 100
-
-***
-
-**Ascended Alchemy**\
-Your potions are 50 points stronger and you brew them 40% faster. Unlocks Potion of War\
-Requires level 100 and all perks unlocked
-
-\
-
-
-</details>
 
 ## Custom Ingredients
 
@@ -150,40 +75,69 @@ _Chance_: 0.5% base (amplified by farming rare drop rate)
 _Drops from_: all log types\
 _Chance_: 0.5% base (amplified by woodcutting rare drop rate)
 
-## Potions List
+Brewing any potion will grant it a quality value. This quality value is equal to your generic Alchemy quality stat PLUS your Alchemy quality stat for if the potion is beneficial or a poison.
 
-| Unlocked by default           | Lv 0                         | Lv 20                            |
-| ----------------------------- | ---------------------------- | -------------------------------- |
-| Hunger (rotten flesh)         | Luck (tropical fish)         | Conduit Power (nautilus shell)   |
-| Water Breathing (pufferfish)  | Night Vision (golden carrot) | Efficient Brewing (chorus fruit) |
-| Speed (sugar)                 |                              |                                  |
-| Poison (spider eye)           |                              |                                  |
-| Weakness (F. spider eye)      |                              |                                  |
-| Fire Resistance (magma cream) |                              |                                  |
-| Jump Boost (rabbit's foot)    |                              |                                  |
+Duration and amplifier ranges will always be from 0-300 quality.
 
-| Lv 30                             | Lv 40                    | Lv 50                             |
-| --------------------------------- | ------------------------ | --------------------------------- |
-| Strong Arm (egg)                  | Fast Brewing (blaze rod) | Blindness (ink sac)               |
-| Mining Fatigue (sponge)           | Haste (nether quartz)    | Withering (wither rose)           |
-| Regeneration (ghast tear)         |                          | Saturation (honey bottle)         |
-| Instant Health (glistening melon) |                          | Strength (blaze powder)           |
-|                                   |                          | Fortify Healing (bustling fungus) |
-|                                   |                          | Fortify Armor (knightsreed)       |
+| Potion             | Base                                                                   | Extended                                                               | Empowered                                                             | Notes                                                     |
+| ------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------- |
+| Jump Boost 🥾      | `I-II 2:00-6:00`                                                       | `I-II 6:00-18:00`                                                      | `II-IV 1:00-3:00`                                                     |                                                           |
+| Speed Boost 🏃‍♂️  | `I-II 2:00-6:00`                                                       | `I-II 6:00-18:00`                                                      | `II-IV 1:00-3:00`                                                     |                                                           |
+| Fire Resistance 🔥 | `2:00-6:00`                                                            | `6:00-18:00`                                                           | N/A                                                                   |                                                           |
+| Water Breathing 🤿 | `2:00-6:00`                                                            | `6:00-18:00`                                                           | N/A                                                                   |                                                           |
+| Night Vision 👁    | `2:00-6:00`                                                            | `6:00-18:00`                                                           | N/A                                                                   |                                                           |
+| Strength ⚔         | `I-II 1:30-4:00`                                                       | `I-II 4:00-12:00`                                                      | `II-IV 0:45-2:00`                                                     |                                                           |
+| Haste ⛏            | `I-II 1:30-4:00`                                                       | `I-II 4:00-12:00`                                                      | `II-IV 0:45-2:00`                                                     | <p>Brewed with<br>- Nether Quartz<br>- Awkward Potion</p> |
+| Health Boost 💖    | `I-II 1:30-4:00`                                                       | `I-II 4:00-12:00`                                                      | `II-IV 0:45-2:00`                                                     | <p>Brewed with<br>- Sweet Berries<br>- Awkward Potion</p> |
+| Invisibility 🕶    | `1:30-4:00`                                                            | `4:00-12:00`                                                           | N/A                                                                   |                                                           |
+| Slowness ❄         | `I-II 1:00-3:00`                                                       | `I-II 3:00-8:00`                                                       | N/A                                                                   |                                                           |
+| Weakness 🚬        | `I-II 1:00-2:00`                                                       | `I-II 1:30-4:30`                                                       | N/A                                                                   |                                                           |
+| Slow Falling 🍂    | `1:00-2:00`                                                            | `1:30-4:30`                                                            | N/A                                                                   |                                                           |
+| Regeneration 💓    | `I-II 0:30-0:45`                                                       | `I-II 1:00-2:30`                                                       | `II-IV 0:30-0:40`                                                     |                                                           |
+| Poison ☠           | `I-II 0:30-0:45`                                                       | `I-II 1:00-2:30`                                                       | `II-IV 0:30-0:40`                                                     |                                                           |
+| Turtle Master 🐢   | <p>Slw <code>IV 0:30-0:40</code><br>Rst <code>III 0:30-0:40</code></p> | <p>Slw <code>IV 1:00-1:20</code><br>Rst <code>III 1:00-1:20</code></p> | <p>Slw <code>VI 0:20-0:30</code><br>Rst <code>IV 0:20-0:30</code></p> |                                                           |
+| Healing ❤          | `I-II`                                                                 | N/A                                                                    | `II-III`                                                              |                                                           |
+| Harming 💜         | `I-II`                                                                 | N/A                                                                    | `II-III`                                                              |                                                           |
 
-| Lv 60                            | Lv 70                                 | Lv 80                        |
-| -------------------------------- | ------------------------------------- | ---------------------------- |
-| Skill EXP+ (tutor's lutus)       | Vulnerability (noxious spores)        | Health Boost (sweet berries) |
-| Vanilla EXP+ (currently missing) | Antihealing (withered filament)       |                              |
-|                                  | Fortify Smithing (steelblossom)       |                              |
-|                                  | Fortify Enchanting (shimmerleaf)      |                              |
-|                                  | Fortify Farming (pollen stalks)       |                              |
-|                                  | Fortify Woodcutting (desiccated bark) |                              |
-|                                  | Fortify Mining (goldroot)             |                              |
-|                                  | Fortify Digging (clay ball            |                              |
-|                                  | Fortify Farming (calcified seed)      |                              |
+### How to gain Alchemy quality
 
-| Lv 100                      |
-| --------------------------- |
-| Bad Omen (totem of undying) |
-| Ambrosia (ambrosial nectar) |
+Leveling up grants you `1.5` Alchemy quality to your potions, up to `150` at level 100.
+
+The Alchemy skill tree (see /skills) has one perk granting `+50` generic quality, and four perks each granting a total of `+50` to beneficial potion quality and poison quality, adding up to `+100` for buffs/debuffs.
+
+The only potion effect types _not_ affected by buff/debuff quality are BAD\_OMEN, SLOW\_FALLING, and GLOWING, since they are neutral effects. Because of this, the max quality for these effects will be lower than the others.
+
+So leveling to 100 alone grants you a total of `250` Alchemy quality, but there are ways to push past this.
+
+You can reset Alchemy and enter NewGame+, granting you a permanent `+50` quality per loop, for a total of +100 should you choose to do this twice.
+
+Leveling Woodcutting eventually grants you access to Crystal Apples, which give you `+50` Alchemy quality (among other things) for 30 seconds when eaten.
+
+If EnchantsSquared happens to be installed, it adds the "Alchemic Fortitude" enchantment which (at max level 3) grants another `+50` Alchemy quality.
+
+That means you can accumulate a total of `450` Alchemy quality assuming the default configuration. The plugin was balanced around 300 being the assumed max, so you can get some pretty overpowered potions doing this.
+
+### Transmutation
+
+Transmutation is done by brewing Draught of Midas, which is brewed using a Nether Star + Awkward Potion.\
+It's a splash potion that changes block materials when thrown. It transmutes everything in a 2-block radius and only transmutes blocks that are touching air.
+
+Reactions:
+
+* `Oak Log > Birch Log > Spruce Log > Dark Oak Log > Jungle Log > Acacia Log > Oak Log` (same with planks, woods)
+* `Crimson Stem > Warped Stem > Crimson Stem`
+* `Stone > Copper Ore > Iron Ore`
+* `Redstone Block > Lapis Lazuli Block > Redstone Block`
+* `Brown Mushroom > Red Mushroom > Brown Mushroom`
+* `Crimson Fungus > Warped Fungus > Crimson Fungus`
+* `Wheat > Potatoes > Carrots > Beetroots > Wheat`
+* `Melon > Pumpkin > Melon`
+* `Dirt > Sand > Red Sand > Gravel > Clay > Dirt`
+* `Grass Block > Mycelium > Grass Block`
+* `Grass > Warped Roots > Crimson roots > Grass`
+* `Netherrack > Coarse Dirt > Netherrack`
+* `Cobblestone > Mossy Cobblestone > Cobblestone`
+* `Obsidian > Crying Obsidian > Obsidian`
+* `Torch > Soul Torch > Torch`
+* `Copper Block > Iron Block > Gold Block` (same with ores and raw ore blocks)
+* `Emerald Block > Diamond Block > Emerald Block` (same with ores)
